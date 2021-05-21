@@ -1,0 +1,77 @@
+{
+  "icons": [
+    {
+      "name": "For Creators",
+	  "sourceUrl": "https://raw.githubusercontent.com/Guilherme5342/NotionIcons/main/FC",
+      "source": "FC",
+      "extension": "png",
+      "count": 23,
+      "author": "Minhee Yoon",
+      "authorUrl": "https://dribbble.com/miniY"
+    },
+    {
+      "name": "For Designers",
+	  "sourceUrl": "https://raw.githubusercontent.com/Guilherme5342/NotionIcons/main/FD",
+      "source": "FD",
+      "extension": "png",
+      "count": 41,
+      "author": "Minhee Yoon",
+      "authorUrl": "https://dribbble.com/miniY"
+    },
+	{
+      "name": "Files Extensions",
+	  "sourceUrl": "https://raw.githubusercontent.com/Guilherme5342/NotionIcons/main/FE",
+	  "source": "FE",
+      "extension": "png",
+      "count": 29,
+      "author": "SmashIcons",
+	  "authorUrl": "https://www.flaticon.com/packs/file-types"
+    },
+	{
+      "name": "Minimal Icons Colored",
+	  "sourceUrl": "https://raw.githubusercontent.com/Guilherme5342/NotionIcons/main/MIC",
+	  "source": "MIC",
+      "extension": "png",
+      "count": 215,
+      "author": "Minimal Icons",
+      "authorUrl": "https://www.notion.so/Minimal-Notion-Icons-a6735b20d07a4ed5a04ef2538170f423"
+    },
+	{
+      "name": "Minimal Icons Monochromatic",
+	  "sourceUrl": "https://raw.githubusercontent.com/Guilherme5342/NotionIcons/main/MIM",
+	  "source": "MIM",
+      "extension": "png",
+      "count": 215,
+      "author": "Minimal Icons",
+      "authorUrl": "https://www.notion.so/Minimal-Notion-Icons-a6735b20d07a4ed5a04ef2538170f423"
+    },
+	{
+      "name": "Icons 2.0",
+	  "sourceUrl": "https://raw.githubusercontent.com/Guilherme5342/NotionIcons/main/NI2",
+	  "source": "NI2",
+      "extension": "png",
+      "count": 97,
+      "author": "Vyshnav",
+      "authorUrl": "https://vyshnav.xyz/blog/notion-icons-2-0"
+    },
+	{
+      "name": "Icons 3.0",
+	  "sourceUrl": "https://raw.githubusercontent.com/Guilherme5342/NotionIcons/main/NI3",
+      "source": "NI3",
+	  "extension": "png",
+      "count": 224,
+      "author": "Vyshnav,
+      "authorUrl": "https://vyshnav.xyz/blog/notion-icons-3-0"
+	},
+	{
+      "name": "Notion Logo",
+	  "sourceUrl": "https://raw.githubusercontent.com/Guilherme5342/NotionIcons/main/NL",
+      "source": "NL",
+	  "extension": "png",
+      "count": 3,
+      "author": "Notion,
+      "authorUrl": "https://www.notion.so/"
+	}
+  ]
+}
+
